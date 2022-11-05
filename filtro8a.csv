@@ -1,0 +1,6 @@
+continent,code,name,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+North America,BHS,Bahamas,Caribbean,13878.0,1973.0,307000,71.1,3527.0,3347.0,The Bahamas,Constitutional Monarchy,Elisabeth II,148.0,BS
+North America,CuB,Cuba,Caribbean,110861.0,1902.0,11201000,76.2,17843.0,18862.0,Cuba,Socialistic Republic,Fidel Castro Ruz,2413.0,Cu
+North America,DOM,Dominican Republic,Caribbean,48511.0,1844.0,8495000,73.2,15846.0,15076.0,Republica Dominicana,Republic,Hipolito MejIa DomInguez,587.0,DO
+North America,HTI,Haiti,Caribbean,27750.0,1804.0,8222000,49.2,3459.0,3107.0,Haiti/Dayti,Republic,Jean-Bertrand Aristide,929.0,HT
+North America,JAM,Jamaica,Caribbean,10990.0,1962.0,2583000,75.2,6871.0,6722.0,Jamaica,Constitutional Monarchy,Elisabeth II,1530.0,JM
