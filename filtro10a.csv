@@ -1,0 +1,47 @@
+,code,name,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+0,ABW,Aruba,North America,Caribbean,193.0,,103000,78.4,828.0,793.0,Aruba,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,129.0,AW
+2,AGO,Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,7984.0,Angola,Republic,Jose Eduardo dos Santos,56.0,AO
+3,AIA,Anguilla,North America,Caribbean,96.0,,8000,76.1,63.2,,Anguilla,Dependent Territory of the uK,Elisabeth II,62.0,AI
+4,ALB,Albania,Europe,Southern Europe,28748.0,1912.0,3401200,71.6,3205.0,2500.0,Shqiperia,Republic,Rexhep Mejdani,34.0,AL
+5,AND,Andorra,Europe,Southern Europe,468.0,1278.0,78000,83.5,1630.0,,Andorra,Parliamentary Coprincipality,,55.0,AD
+6,ANT,Netherlands Antilles,North America,Caribbean,800.0,,217000,74.7,1941.0,,Nederlandse Antillen,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,33.0,AN
+8,ARG,Argentina,South America,South America,2780400.0,1816.0,37032000,75.1,340238.0,323310.0,Argentina,Federal Republic,Fernando de la Rua,69.0,AR
+10,ASM,American Samoa,Oceania,Polynesia,199.0,,68000,75.1,334.0,,Amerika Samoa,uS Territory,George W. Bush,54.0,AS
+11,ATA,Antarctica,Antarctica,Antarctica,13120000.0,,0,,0.0,,,Co-administrated,,,AQ
+12,ATF,French Southern territories,Antarctica,Antarctica,7780.0,,0,,0.0,,Terres australes francaises,Nonmetropolitan Territory of France,Jacques Chirac,,TF
+13,ATG,Antigua and Barbuda,North America,Caribbean,442.0,1981.0,68000,70.5,612.0,584.0,Antigua and Barbuda,Constitutional Monarchy,Elisabeth II,63.0,AG
+14,AuS,Australia,Oceania,Australia and New Zealand,7741220.0,1901.0,18886000,79.8,351182.0,392911.0,Australia,"Constitutional Monarchy, Federation",Elisabeth II,135.0,Au
+17,BDI,Burundi,Africa,Eastern Africa,27834.0,1962.0,6695000,46.2,903.0,982.0,Burundi/uburundi,Republic,Pierre Buyoya,552.0,BI
+18,BEL,Belgium,Europe,Western Europe,30518.0,1830.0,10239000,77.8,249704.0,243948.0,Belgie/Belgique,"Constitutional Monarchy, Federation",Albert II,179.0,BE
+19,BEN,Benin,Africa,Western Africa,112622.0,1960.0,6097000,50.2,2357.0,2141.0,Benin,Republic,Mathieu Kerekou,187.0,BJ
+20,BFA,Burkina Faso,Africa,Western Africa,274000.0,1960.0,11937000,46.7,2425.0,2201.0,Burkina Faso,Republic,Blaise Compaore,549.0,BF
+22,BGR,Bulgaria,Europe,Eastern Europe,110994.0,1908.0,8190900,70.9,12178.0,10169.0,Balgarija,Republic,Petar Stojanov,539.0,BG
+24,BHS,Bahamas,North America,Caribbean,13878.0,1973.0,307000,71.1,3527.0,3347.0,The Bahamas,Constitutional Monarchy,Elisabeth II,148.0,BS
+25,BIH,Bosnia and Herzegovina,Europe,Southern Europe,51197.0,1992.0,3972000,71.5,2841.0,,Bosna i Hercegovina,Federal Republic,Ante Jelavic,201.0,BA
+27,BLZ,Belize,North America,Central America,22696.0,1981.0,241000,70.9,630.0,616.0,Belize,Constitutional Monarchy,Elisabeth II,185.0,BZ
+28,BMu,Bermuda,North America,North America,53.0,,65000,76.9,2328.0,2190.0,Bermuda,Dependent Territory of the uK,Elisabeth II,191.0,BM
+29,BOL,Bolivia,South America,South America,1098581.0,1825.0,8329000,63.7,8571.0,7967.0,Bolivia,Republic,Hugo Banzer Suarez,194.0,BO
+30,BRA,Brazil,South America,South America,8547403.0,1822.0,170115000,62.9,776739.0,804108.0,Brasil,Federal Republic,Fernando Henrique Cardoso,211.0,BR
+31,BRB,Barbados,North America,Caribbean,430.0,1966.0,270000,73.0,2223.0,2186.0,Barbados,Constitutional Monarchy,Elisabeth II,174.0,BB
+34,BVT,Bouvet Island,Antarctica,Antarctica,59.0,,0,,0.0,,Bouvetoya,Dependent Territory of Norway,Harald V,,BV
+35,BWA,Botswana,Africa,Southern Africa,581730.0,1966.0,1622000,39.3,4834.0,4935.0,Botswana,Republic,Festus G. Mogae,204.0,BW
+40,CHL,Chile,South America,South America,756626.0,1810.0,15211000,75.7,72949.0,75780.0,Chile,Republic,Ricardo Lagos Escobar,554.0,CL
+46,COK,Cook Islands,Oceania,Polynesia,236.0,,20000,71.1,100.0,,The Cook Islands,Nonmetropolitan Territory of New Zealand,Elisabeth II,583.0,CK
+50,CRI,Costa Rica,North America,Central America,51100.0,1821.0,4023000,75.8,10226.0,9757.0,Costa Rica,Republic,Miguel angel RodrIguez EcheverrIa,584.0,CR
+53,CYM,Cayman Islands,North America,Caribbean,264.0,,38000,78.9,1263.0,1186.0,Cayman Islands,Dependent Territory of the uK,Elisabeth II,553.0,KY
+57,DJI,Djibouti,Africa,Eastern Africa,23200.0,1977.0,638000,50.8,382.0,373.0,Djibouti/Jibuti,Republic,Ismail Omar Guelleh,585.0,DJ
+58,DMA,Dominica,North America,Caribbean,751.0,1978.0,71000,73.4,256.0,243.0,Dominica,Republic,Vernon Shaw,586.0,DM
+60,DOM,Dominican Republic,North America,Caribbean,48511.0,1844.0,8495000,73.2,15846.0,15076.0,Republica Dominicana,Republic,Hipolito MejIa DomInguez,587.0,DO
+61,DZA,Algeria,Africa,Northern Africa,2381741.0,1962.0,31471000,69.7,49982.0,46966.0,Al-Jazair/Algerie,Republic,Abdelaziz Bouteflika,35.0,DZ
+62,ECu,Ecuador,South America,South America,283561.0,1822.0,12646000,71.1,19770.0,19769.0,Ecuador,Republic,Gustavo Noboa Bejarano,594.0,EC
+63,EGY,Egypt,Africa,Northern Africa,1001449.0,1922.0,68470000,63.3,82710.0,75617.0,Misr,Republic,Hosni Mubarak,608.0,EG
+64,ERI,Eritrea,Africa,Eastern Africa,117600.0,1993.0,3850000,55.8,650.0,755.0,Ertra,Republic,Isayas Afewerki [Isaias Afwerki],652.0,ER
+66,ESP,Spain,Europe,Southern Europe,505992.0,1492.0,39441700,78.8,553233.0,532031.0,Espana,Constitutional Monarchy,Juan Carlos I,653.0,ES
+76,GBR,united Kingdom,Europe,British Islands,242900.0,1066.0,59623400,77.7,1378330.0,1296830.0,united Kingdom,Constitutional Monarchy,Elisabeth II,456.0,GB
+93,HMD,Heard Island and McDonald Islands,Antarctica,Antarctica,359.0,,0,,0.0,,Heard and McDonald Islands,Territory of Australia,Elisabeth II,,HM
+100,IOT,British Indian Ocean Territory,Africa,Eastern Africa,78.0,,0,,0.0,,British Indian Ocean Territory,Dependent Territory of the uK,Elisabeth II,,IO
+158,NLD,Netherlands,Europe,Western Europe,41526.0,1581.0,15864000,78.3,371362.0,360478.0,Nederland,Constitutional Monarchy,Willem-Alexander,5.0,NL
+187,SGS,South Georgia and the South Sandwich Islands,Antarctica,Antarctica,3903.0,,0,,0.0,,South Georgia and the South Sandwich Islands,Dependent Territory of the uK,Elisabeth II,,GS
+192,SLV,El Salvador,North America,Central America,21041.0,1841.0,6276000,69.7,11863.0,11203.0,El Salvador,Republic,Francisco Guillermo Flores Perez,645.0,SV
+221,uMI,united States Minor Outlying Islands,Oceania,Micronesia/Caribbean,16.0,,0,,0.0,,united States Minor Outlying Islands,Dependent Territory of the uS,George W. Bush,,uM
+228,VGB,"Virgin Islands, British",North America,Caribbean,151.0,,21000,75.4,612.0,573.0,British Virgin Islands,Dependent Territory of the uK,Elisabeth II,537.0,VG

@@ -1,0 +1,46 @@
+continent,code,name,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+Asia,AFG,Afghanistan,Southern and Central Asia,652090.0,1919.0,22720000,45.9,5976.0,,Afganistan/Afqanestan,Islamic Emirate,Mohammad Omar,1.0,AF
+Africa,AGO,Angola,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,7984.0,Angola,Republic,Jose Eduardo dos Santos,56.0,AO
+Antarctica,ATA,Antarctica,Antarctica,13120000.0,,0,,0.0,,,Co-administrated,,,AQ
+Antarctica,ATF,French Southern territories,Antarctica,7780.0,,0,,0.0,,Terres australes francaises,Nonmetropolitan Territory of France,Jacques Chirac,,TF
+Africa,BDI,Burundi,Eastern Africa,27834.0,1962.0,6695000,46.2,903.0,982.0,Burundi/uburundi,Republic,Pierre Buyoya,552.0,BI
+Africa,BFA,Burkina Faso,Western Africa,274000.0,1960.0,11937000,46.7,2425.0,2201.0,Burkina Faso,Republic,Blaise Compaore,549.0,BF
+Antarctica,BVT,Bouvet Island,Antarctica,59.0,,0,,0.0,,Bouvetoya,Dependent Territory of Norway,Harald V,,BV
+Africa,BWA,Botswana,Southern Africa,581730.0,1966.0,1622000,39.3,4834.0,4935.0,Botswana,Republic,Festus G. Mogae,204.0,BW
+Africa,CAF,Central African Republic,Central Africa,622984.0,1960.0,3615000,44.0,1054.0,993.0,Centrafrique/Be-Afrika,Republic,Ange-Felix Patasse,1889.0,CF
+Oceania,CCK,Cocos (Keeling) Islands,Australia and New Zealand,14.0,,600,,0.0,,Cocos (Keeling) Islands,Territory of Australia,Elisabeth II,2317.0,CC
+Africa,CIV,Cote dIvoire,Western Africa,322463.0,1960.0,14786000,45.2,11345.0,10285.0,Cote dIvoire,Republic,Laurent Gbagbo,2814.0,CI
+Africa,COD,"Congo, The Democratic Republic of the",Central Africa,2344858.0,1960.0,51654000,48.8,6964.0,2474.0,Republique Democratique du Congo,Republic,Joseph Kabila,2298.0,CD
+Africa,COG,Congo,Central Africa,342000.0,1960.0,2943000,47.4,2108.0,2287.0,Congo,Republic,Denis Sassou-Nguesso,2296.0,CG
+Oceania,CXR,Christmas Island,Australia and New Zealand,135.0,,2500,,0.0,,Christmas Island,Territory of Australia,Elisabeth II,1791.0,CX
+Africa,ESH,Western Sahara,Northern Africa,266000.0,,293000,49.8,60.0,,As-Sahrawiya,Occupied by Marocco,Mohammed Abdel Aziz,2453.0,EH
+Africa,ETH,Ethiopia,Eastern Africa,1104300.0,-1000.0,62565000,45.2,6353.0,6180.0,YeItyop iya,Republic,Negasso Gidada,756.0,ET
+South America,FLK,Falkland Islands,South America,12173.0,,2000,,0.0,,Falkland Islands,Dependent Territory of the uK,Elisabeth II,763.0,FK
+Africa,GIN,Guinea,Western Africa,245857.0,1958.0,7430000,45.6,2352.0,2383.0,Guinee,Republic,Lansana Conte,926.0,GN
+Africa,GNB,Guinea-Bissau,Western Africa,36125.0,1974.0,1213000,49.0,293.0,272.0,Guine-Bissau,Republic,Kumba Iala,927.0,GW
+Antarctica,HMD,Heard Island and McDonald Islands,Antarctica,359.0,,0,,0.0,,Heard and McDonald Islands,Territory of Australia,Elisabeth II,,HM
+North America,HTI,Haiti,Caribbean,27750.0,1804.0,8222000,49.2,3459.0,3107.0,Haiti/Dayti,Republic,Jean-Bertrand Aristide,929.0,HT
+Africa,IOT,British Indian Ocean Territory,Eastern Africa,78.0,,0,,0.0,,British Indian Ocean Territory,Dependent Territory of the uK,Elisabeth II,,IO
+Africa,KEN,Kenya,Eastern Africa,580367.0,1963.0,30080000,48.0,9217.0,10241.0,Kenya,Republic,Daniel arap Moi,1881.0,KE
+Africa,MLI,Mali,Western Africa,1240192.0,1960.0,11234000,46.7,2642.0,2453.0,Mali,Republic,Alpha Oumar Konare,2482.0,ML
+Africa,MOZ,Mozambique,Eastern Africa,801590.0,1975.0,19680000,37.5,2891.0,2711.0,Mocambique,Republic,JoaquIm A. Chissano,2698.0,MZ
+Africa,MWI,Malawi,Eastern Africa,118484.0,1964.0,10925000,37.6,1687.0,2527.0,Malawi,Republic,Bakili Muluzi,2462.0,MW
+Africa,NAM,Namibia,Southern Africa,824292.0,1990.0,1726000,42.5,3101.0,3384.0,Namibia,Republic,Sam Nujoma,2726.0,
+Africa,NER,Niger,Western Africa,1267000.0,1960.0,10730000,41.3,1706.0,1580.0,Niger,Republic,Mamadou Tandja,2738.0,NE
+Oceania,NFK,Norfolk Island,Australia and New Zealand,36.0,,2000,,0.0,,Norfolk Island,Territory of Australia,Elisabeth II,2806.0,NF
+Oceania,NIu,Niue,Polynesia,260.0,,2000,,0.0,,Niue,Nonmetropolitan Territory of New Zealand,Elisabeth II,2805.0,Nu
+Oceania,PCN,Pitcairn,Polynesia,49.0,,50,,0.0,,Pitcairn,Dependent Territory of the uK,Elisabeth II,2912.0,PN
+Africa,RWA,Rwanda,Eastern Africa,26338.0,1962.0,7733000,39.3,2036.0,1863.0,Rwanda/urwanda,Republic,Paul Kagame,3047.0,RW
+Antarctica,SGS,South Georgia and the South Sandwich Islands,Antarctica,3903.0,,0,,0.0,,South Georgia and the South Sandwich Islands,Dependent Territory of the uK,Elisabeth II,,GS
+Europe,SJM,Svalbard and Jan Mayen,Nordic Countries,62422.0,,3200,,0.0,,Svalbard og Jan Mayen,Dependent Territory of Norway,Harald V,938.0,SJ
+Africa,SLE,Sierra Leone,Western Africa,71740.0,1961.0,4854000,45.3,746.0,858.0,Sierra Leone,Republic,Ahmed Tejan Kabbah,3207.0,SL
+Africa,SOM,Somalia,Eastern Africa,637657.0,1960.0,10097000,46.2,935.0,,Soomaaliya,Republic,Abdiqassim Salad Hassan,3214.0,SO
+Africa,SWZ,Swaziland,Southern Africa,17364.0,1968.0,1008000,40.4,1206.0,1312.0,kaNgwane,Monarchy,Mswati III,3244.0,SZ
+Oceania,TKL,Tokelau,Polynesia,12.0,,2000,,0.0,,Tokelau,Nonmetropolitan Territory of New Zealand,Elisabeth II,3333.0,TK
+Asia,TMP,East Timor,Southeast Asia,14874.0,,885000,46.0,0.0,,Timor Timur,Administrated by the uN,Jose Alexandre Gusmao,1522.0,TP
+Africa,uGA,uganda,Eastern Africa,241038.0,1962.0,21778000,42.9,6313.0,6887.0,uganda,Republic,Yoweri Museveni,3425.0,uG
+Oceania,uMI,united States Minor Outlying Islands,Micronesia/Caribbean,16.0,,0,,0.0,,united States Minor Outlying Islands,Dependent Territory of the uS,George W. Bush,,uM
+Europe,VAT,Holy See (Vatican City State),Southern Europe,0.4,1929.0,1000,,9.0,,Santa Sede/Citta del Vaticano,Independent Church State,Johannes Paavali II,3538.0,VA
+Oceania,WLF,Wallis and Futuna,Polynesia,200.0,,15000,,0.0,,Wallis-et-Futuna,Nonmetropolitan Territory of France,Jacques Chirac,3536.0,WF
+Africa,ZMB,Zambia,Eastern Africa,752618.0,1964.0,9169000,37.2,3377.0,3922.0,Zambia,Republic,Frederick Chiluba,3162.0,ZM
+Africa,ZWE,Zimbabwe,Eastern Africa,390757.0,1980.0,11669000,37.8,5951.0,8670.0,Zimbabwe,Republic,Robert G. Mugabe,4068.0,ZW
